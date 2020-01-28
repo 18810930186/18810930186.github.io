@@ -3,7 +3,7 @@
   <tr>
     <td width="75%" frame="void">
       <h1>Yang Liu (刘洋)</h1>
-      <p><b>liuyang007@ncepu.edu.cn<b></p>
+      <p><b>liuyang007@ncepu.edu.cn</b></p>
       <p><b>I am a PhD student in the College of Computer, National University of Defense Technology (NUDT). </b></p>
     </td>
   </tr>
